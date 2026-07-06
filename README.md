@@ -4,8 +4,7 @@ A full-stack dating application built with React and Firebase featuring
 swipe-based matching, OTP authentication, real-time chat, and profile management.
 
  🚀 Live Demo
-[sweet-spark-dating-app.netlify.app]
-
+[Live Demo](https://sweet-spark-dating-app.netlify.app)
  ✨ Features
 - 🔐 User Authentication (Email/Password + OTP Phone Verification)
 - 💘 Swipe-based Profile Discovery
