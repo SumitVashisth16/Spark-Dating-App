@@ -4,7 +4,7 @@ A full-stack dating application built with React and Firebase featuring
 swipe-based matching, OTP authentication, real-time chat, and profile management.
 
  🚀 Live Demo
-[Coming Soon — Netlify Deploy]
+[https://thunderous-bublanina-03031f.netlify.app]
 
  ✨ Features
 - 🔐 User Authentication (Email/Password + OTP Phone Verification)
